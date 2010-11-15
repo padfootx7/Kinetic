@@ -11,7 +11,7 @@ using Microsoft.Xna.Framework.Media;
 
 namespace Kinetic
 {
-    public class Class1
+    public class World
     {
     }
 }
